@@ -12,3 +12,6 @@
  
 
 Tested on `python3.8.2`
+
+In order to test in postman you need to import collection json into postman.
+

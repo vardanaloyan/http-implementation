@@ -1,0 +1,30 @@
+{
+	"info": {
+		"_postman_id": "89f7f843-1bea-470f-a327-55e54e0c9cd5",
+		"name": "playground",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "sample_get",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "127.0.0.1:5000/test",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"test"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
